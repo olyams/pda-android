@@ -1,0 +1,177 @@
+{
+    "GetPointPassagesResult": {
+        "head": {
+            "namespace": null,
+            "version": null,
+            "returnedLines": null,
+            "errorCode": null,
+            "errorMessage": null
+        },
+        "body": {
+            "points": [
+                {
+                    "HeureArrivee": "00:00:00",
+                    "HeureDepart": "12:50:00",
+                    "HoraireId": 4922110,
+                    "NumeroTechnique": "616",
+                    "Order": 1,
+                    "RegulationId": 423023,
+                    "codeGare": "110"
+                },
+                {
+                    "HeureArrivee": "13:34:00",
+                    "HeureDepart": "13:35:00",
+                    "HoraireId": 4922111,
+                    "NumeroTechnique": "616",
+                    "Order": 6,
+                    "RegulationId": 423023,
+                    "codeGare": "120"
+                },
+                {
+                    "HeureArrivee": "14:38:00",
+                    "HeureDepart": "14:39:00",
+                    "HoraireId": 4922112,
+                    "NumeroTechnique": "616",
+                    "Order": 12,
+                    "RegulationId": 423023,
+                    "codeGare": "139"
+                },
+                {
+                    "HeureArrivee": "14:58:00",
+                    "HeureDepart": "14:59:00",
+                    "HoraireId": 4922113,
+                    "NumeroTechnique": "616",
+                    "Order": 15,
+                    "RegulationId": 423023,
+                    "codeGare": "183"
+                },
+                {
+                    "HeureArrivee": "15:20:00",
+                    "HeureDepart": "15:21:00",
+                    "HoraireId": 4922114,
+                    "NumeroTechnique": "616",
+                    "Order": 23,
+                    "RegulationId": 423023,
+                    "codeGare": "191"
+                },
+                {
+                    "HeureArrivee": "15:28:00",
+                    "HeureDepart": "15:30:00",
+                    "HoraireId": 4922115,
+                    "NumeroTechnique": "121 ",
+                    "Order": 26,
+                    "RegulationId": 423023,
+                    "codeGare": "200"
+                },
+                {
+                    "HeureArrivee": "15:37:00",
+                    "HeureDepart": "15:38:00",
+                    "HoraireId": 4922116,
+                    "NumeroTechnique": "121 ",
+                    "Order": 27,
+                    "RegulationId": 423023,
+                    "codeGare": "213"
+                },
+                {
+                    "HeureArrivee": "15:47:00",
+                    "HeureDepart": "15:48:00",
+                    "HoraireId": 4922117,
+                    "NumeroTechnique": "121 ",
+                    "Order": 29,
+                    "RegulationId": 423023,
+                    "codeGare": "217"
+                },
+                {
+                    "HeureArrivee": "16:19:00",
+                    "HeureDepart": "16:21:00",
+                    "HoraireId": 4922118,
+                    "NumeroTechnique": "121 ",
+                    "Order": 34,
+                    "RegulationId": 423023,
+                    "codeGare": "229"
+                },
+                {
+                    "HeureArrivee": "16:24:00",
+                    "HeureDepart": "16:27:00",
+                    "HoraireId": 4922119,
+                    "NumeroTechnique": "121 ",
+                    "Order": 35,
+                    "RegulationId": 423023,
+                    "codeGare": "231"
+                },
+                {
+                    "HeureArrivee": "16:33:00",
+                    "HeureDepart": "16:34:00",
+                    "HoraireId": 4922120,
+                    "NumeroTechnique": "121 ",
+                    "Order": 36,
+                    "RegulationId": 423023,
+                    "codeGare": "237"
+                },
+                {
+                    "HeureArrivee": "16:37:00",
+                    "HeureDepart": "16:38:00",
+                    "HoraireId": 4922121,
+                    "NumeroTechnique": "121 ",
+                    "Order": 37,
+                    "RegulationId": 423023,
+                    "codeGare": "238"
+                },
+                {
+                    "HeureArrivee": "16:57:00",
+                    "HeureDepart": "17:02:00",
+                    "HoraireId": 4922122,
+                    "NumeroTechnique": "121 ",
+                    "Order": 40,
+                    "RegulationId": 423023,
+                    "codeGare": "250"
+                },
+                {
+                    "HeureArrivee": "17:33:00",
+                    "HeureDepart": "17:34:00",
+                    "HoraireId": 4922123,
+                    "NumeroTechnique": "121 ",
+                    "Order": 47,
+                    "RegulationId": 423023,
+                    "codeGare": "264"
+                },
+                {
+                    "HeureArrivee": "17:49:00",
+                    "HeureDepart": "17:51:00",
+                    "HoraireId": 4922124,
+                    "NumeroTechnique": "121 ",
+                    "Order": 50,
+                    "RegulationId": 423023,
+                    "codeGare": "350"
+                },
+                {
+                    "HeureArrivee": "18:28:00",
+                    "HeureDepart": "18:30:00",
+                    "HoraireId": 4922125,
+                    "NumeroTechnique": "121 ",
+                    "Order": 55,
+                    "RegulationId": 423023,
+                    "codeGare": "362"
+                },
+                {
+                    "HeureArrivee": "18:37:00",
+                    "HeureDepart": "18:39:00",
+                    "HoraireId": 4922126,
+                    "NumeroTechnique": "121 ",
+                    "Order": 56,
+                    "RegulationId": 423023,
+                    "codeGare": "363"
+                },
+                {
+                    "HeureArrivee": "19:15:00",
+                    "HeureDepart": "00:00:00",
+                    "HoraireId": 4922127,
+                    "NumeroTechnique": "121 ",
+                    "Order": 60,
+                    "RegulationId": 423023,
+                    "codeGare": "380"
+                }
+            ]
+        }
+    }
+}
